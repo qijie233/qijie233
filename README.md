@@ -15,7 +15,7 @@ About me
 
 Here is my Github homepage, you can take a look~
 
-----
+---- 
 
 我是 <s>练习时长两年半</s> 来自中国的 HTMLer，擅长摸鱼，写shi山代码（Java）
 
@@ -24,7 +24,8 @@ Here is my Github homepage, you can take a look~
 - 🤔 我一般在 [Bilibili](https://space.bilibili.com/1755772957) 发布视频，在 [blog](https://www.qijieya.cn) 中分享一些事情和想法
 - 💡 这里是我的博客 [祈杰博客](https://www.qijieya.cn)，进去随便逛逛吧
 - 💬 可以通过QQ 2513461942 / [Telegram](https://t.me/qijieya_lty) /  tangqijie@qijieya.cn 联系我
-- ❤  我还有个MC服务器，快来加入我的服务器一(bang)起(wo)玩(gan)吧,[MC服务器](https://www.qijieya.cn/archives/174/)
+- ❤  洛天依是我老婆
+- 😄 我还有个MC服务器，快来加入我的服务器一(bang)起(wo)玩(gan)吧,[MC服务器](https://www.qijieya.cn/archives/174/)
 
 这里是我的 Github 主页，可以随便看看啦~
 
