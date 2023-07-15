@@ -8,8 +8,8 @@ About me
 
 - 🔭 I am learning C++, python,Someday I will master them
 - 👯 I’m looking to collaborate on ...
-- 🤔 I usually post videos on [Bilibili](https://space.bilibili.com/1755772957)and share something in my [blog](https://www.qijieya.cn) or QQ
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- 💬 Chat with me on [Telegram](https://t.me/qijieya_lty) / QQ 2513461942 /tangqijie@qijieya.cn 
+- 🤔 I usually post videos on [Bilibili](https://space.bilibili.com/1755772957) and share something in my [blog](https://www.qijieya.cn) or QQ
+- 💡 I share my ideas in my blog:[www.qijieya.cn](https://www.qijieya.cn)
+- 😄 Now I am participating in [BL FRP](https://frp.mybailu.net/) project Director Technology & Business
+- 💬 Chat with me on [Telegram](https://t.me/qijieya_lty) / QQ 2513461942 / tangqijie@qijieya.cn 
 
