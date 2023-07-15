@@ -12,4 +12,4 @@ About me
 - 💡 I share my ideas in my blog:[www.qijieya.cn](https://www.qijieya.cn)
 - 😄 Now I am participating in [BL FRP](https://frp.mybailu.net/) project as Technology & Business
 - 💬 Chat with me on [Telegram](https://t.me/qijieya_lty) / QQ 2513461942 / tangqijie@qijieya.cn 
-
+- ❤  I love playing games，such as MineCraft，COD，CSGO，I still have an MC server, what about come and play with me? [click here](https://www.qijieya.cn/archives/174/)
