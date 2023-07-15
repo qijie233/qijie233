@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**qijieya-lty/qijieya-lty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Maybe you don't believe me, I'm just a student ✨ _233333_ ✨ You can think of me as a person who is slightly proficient in computer related knowledge, I also do some websites,such as my blog
 
 Here are some ideas to get you started:
 
