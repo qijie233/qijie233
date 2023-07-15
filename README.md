@@ -22,7 +22,7 @@ Here is my Github homepage, you can take a look~
 目前接一些配电脑的单子（写配置，装机，装系统），有这方面的活找我，价格好商量
 - 🖥️ 现在作为 [BL FRP](https://frp.mybailu.net) 的技术&业务
 - 🤔 我一般在 [Bilibili](https://space.bilibili.com/1755772957) 发布视频，在 [blog](https://www.qijieya.cn) 中分享一些事情和想法
-- 💡 这里是我的博客[祈杰博客](https://www.qijieya.cn)，进去随便逛逛吧
+- 💡 这里是我的博客 [祈杰博客](https://www.qijieya.cn)，进去随便逛逛吧
 - 💬 可以通过QQ 2513461942 / [Telegram](https://t.me/qijieya_lty) /  tangqijie@qijieya.cn 联系我
 - ❤  我还有个MC服务器，快来加入我的服务器一(bang)起(wo)玩(gan)吧,[MC服务器](https://www.qijieya.cn/archives/174/)
 
