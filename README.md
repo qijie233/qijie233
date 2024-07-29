@@ -9,7 +9,7 @@ About me
 - 🔭 I am learning C++, python,Someday I will master them
 - 🤔 I usually post videos on [Bilibili](https://space.bilibili.com/1755772957) and share something in my [blog](https://qijieya.cn) or QQ
 - 💡 I share my ideas in my blog:[www.qijieya.cn](https://qijieya.cn)
-- 💬 Chat with me on [Telegram](https://t.me/qijieya) / QQ 2513461942 / tangqijie@qijieya.cn 
+- 💬 Chat with me on [Telegram](https://t.me/qijieya) / QQ 2513461942 / i@qijieya.cn 
 - ❤  I love playing games，such as MineCraft,Genshin Impact，I also have a MC server, what about come and play with me? [click here](https://qijieya.cn/)
 
 Here is my Github homepage, you can take a look~
