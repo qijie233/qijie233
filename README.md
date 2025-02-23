@@ -18,12 +18,13 @@ Here is my Github homepage, you can take a look~
 
 我是 <s>练习时长两年半</s> 来自中国的 HTMLer，擅长摸鱼，写shi山代码（Java）
 
-目前接一些配电脑的单子（写配置，装机，装系统），有这方面的活找我，价格好商量
+有网站，APP相关开发可以找我们
 - 🖥️ 芜湖！
 - 🤔 我一般在 [Bilibili](https://space.bilibili.com/1755772957) 发布视频，在 [blog](https://qijieya.cn) 中分享一些事情和想法
 - 💡 这里是我的博客 [祈杰博客](https://qijieya.cn)，进去随便逛逛吧
 - 💬 可以通过QQ 2513461942 / [Telegram](https://t.me/qijieya) / i@qijieya.cn 联系我
 - ❤  洛天依是我老婆
+- 💼 目前是归离原网络科技（镇江）有限公司CEO，欢迎加入！
 
 这里是我的 Github 主页，可以随便看看啦~
 
