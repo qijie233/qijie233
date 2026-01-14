@@ -1,6 +1,5 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%95%AC......%E4%B8%8D%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%98%8E%E5%A4%A9%E3%80%82;Here's+to...+tomorrow's+imperfection.)](https://git.io/typing-svg)
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qijie233&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 <img src="https://q1.qlogo.cn/g?b=qq&nk=2513461942&s=640" style="width: 25%;" align="right">
 
