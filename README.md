@@ -1,10 +1,6 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E6%95%AC......%E4%B8%8D%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%98%8E%E5%A4%A9%E3%80%82;Here's+to...+tomorrow's+imperfection.)](https://git.io/typing-svg)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qijie233/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qijie233/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qijie233/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qijie233&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 <img src="https://q1.qlogo.cn/g?b=qq&nk=2513461942&s=640" style="width: 25%;" align="right">
 
@@ -23,7 +19,7 @@ About me
 - 💡 I share my ideas in my blog:[www.qijieya.cn](https://qijieya.cn)
 - 💬 Chat with me on [Telegram](https://t.me/qijieya) / QQ 2513461942 / i@qijieya.cn 
 - ❤  I love playing games，such as MineCraft,Genshin Impact，I also have a MC server, what about come and play with me? [click here](https://qijieya.cn/)
-
+-  My[X/Twitter](https://x.com/qijie233)
 Here is my Github homepage, you can take a look~
 
 ---- 
@@ -39,6 +35,6 @@ Here is my Github homepage, you can take a look~
 - 💬 可以通过QQ 2513461942 / [Telegram](https://t.me/qijieya) / i@qijieya.cn 联系我
 - ❤  喜欢洛天依，是锦衣卫
 - 💼 目前是归离原网络科技（镇江）有限公司，欢迎加入！
-
+- 欢迎访问我的[X/Twitter](https://x.com/qijie233)
 这里是我的 Github 主页，可以随便看看啦~
 
