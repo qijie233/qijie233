@@ -4,7 +4,7 @@
 <img src="https://q1.qlogo.cn/g?b=qq&nk=2513461942&s=640" style="width: 25%;" align="right">
 
 > Maybe you don't believe me, I'm just a student from China✨ _233333_ ✨ You can think of me as a person who is slightly proficient in computer related knowledge, I also do some websites,such as my blog
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qijie233)
+
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
