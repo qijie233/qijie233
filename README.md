@@ -18,7 +18,7 @@ About me
 - 💡 I share my ideas in my blog:[www.qijieya.cn](https://qijieya.cn)
 - 💬 Chat with me on [Telegram](https://t.me/qijieya) / QQ 2513461942 / i@qijieya.cn 
 - ❤  I love playing games，such as MineCraft,Genshin Impact，I also have a MC server, what about come and play with me? [click here](https://qijieya.cn/)
--  My[X/Twitter](https://x.com/qijieya)
+-  My [X/Twitter](https://x.com/qijieya)
 Here is my Github homepage, you can take a look~
 
 ---- 
@@ -34,6 +34,7 @@ Here is my Github homepage, you can take a look~
 - 💬 可以通过QQ 2513461942 / [Telegram](https://t.me/qijieya) / i@qijieya.cn 联系我
 - ❤  喜欢洛天依，是锦衣卫
 - 💼 目前是归离原网络科技（镇江）有限公司，欢迎加入！
+- 🏳️‍⚧️ 是MTF
 - 欢迎访问我的[X/Twitter](https://x.com/qijieya)
 这里是我的 Github 主页，可以随便看看啦~
 
