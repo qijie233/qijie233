@@ -31,8 +31,8 @@ Here is my Github homepage, you can take a look~
 - ⚡️ 是一位业余无线爱好者，我的呼号是BG4VW，欢迎交换 QSL 卡片，我的[qrz](https://www.qrz.com/db/BG4VW)     
 - 🤔 我一般在 [Bilibili](https://space.bilibili.com/1755772957) 发布视频，在 [blog](https://qijieya.cn) 中分享一些事情和想法
 - 💡 这里是我的博客 [祈杰博客](https://qijieya.cn)，进去随便逛逛吧
-- 💬 可以通过QQ 2513461942 / [Telegram](https://t.me/qijieya) / i@qijieya.cn 联系我
-- ❤  喜欢洛天依，是锦衣卫
+- 💬 可以通过QQ 2513461942 / [Telegram](https://t.me/qijieya) / i@qijiemail.com 联系我
+- ❤  喜欢洛天依，是锦依卫
 - 💼 目前是归离原网络科技（镇江）有限公司，欢迎加入！
 - 🏳️‍⚧️ 是MTF
 - 欢迎访问我的[X/Twitter](https://x.com/qijieya)
